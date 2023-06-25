@@ -1,0 +1,40 @@
+D0001
+6 FISH ADULT 11.4kg
+ORIJEN
+548.00
+Features:\n\nBiologically Appropriate Dog Food.\n\n-With 38% richly nourishing protein, and 85% quality animal ingredients, ORIJEN Six Fish nourishes dogs of all life stages according to their evolutionary and biological needs.\n-2/3 of ORIJEN's meat is FRESH (refrigerated, without preservatives) or RAW (flash-frozen, without preservatives), including the top 6 fish ingredients.\n-1/3 of fish is gently dried at 90°C from fresh, whole fish to create a concentrated source of richly nourishing protein that cannot be supplied by fresh fish alone.\n-Nutrient-dense WholePrey ratios of fresh, whole fish (including meat and bone) provide virtually every nutrient your dog needs to thrive.\n\nIngredients:\n\nFresh whole Pacific pilchard (18%), fresh whole Pacific mackerel (13%), fresh whole Pacific hake (12%), fresh whole Pacific flounder (5%), fresh whole rockfish (5%), fresh whole sole (5%), whole mackerel (dehydrated, 5%), whole herring (dehydrated, 5%), Alaskan cod (dehydrated, 4.5%), whole sardine (dehydrated, 4.5%), whole blue whiting (dehydrated, 4%), herring oil (4%), whole red lentils, whole green lentils, whole green peas, lentil fibre, whole chickpeas, whole yellow peas, sunflower oil (cold-pressed), whole pinto beans, cod liver (freeze-dried), fresh whole pumpkin, fresh whole butternut squash, fresh whole zucchini, fresh whole parsnips, fresh carrots, fresh whole Red Delicious apples, fresh whole Bartlett pears, fresh kale, fresh spinach, fresh beet greens, fresh turnip greens, brown kelp, whole cranberries, whole blueberries, whole Saskatoon berries, chicory root, turmeric root, milk thistle, burdock root, lavender, marshmallow root, rosehips.
+IN_STOCK
+dog1.jpg
+
+D0002
+ORIGINAL 11.4kg
+ORIJEN
+468.00
+Features:\nBiologically Appropriate Dog Food!\n\n\n-With 38% richly nourishing protein and 85% quality animal ingredients, ORIJEN nourishes dogs of all breeds and life stages according to their evolutionary and biological needs\n-2/3 of the meat is FRESH (refrigerated, no preservatives) or RAW (flash-frozen, no preservatives), including the top 10 meat ingredients.\n-1/3 of meat is air-dried at 90&#176;C from fresh chicken, turkey, and fish to create a concentrated source of richly nourishing protein.\n-Nutrient-dense WholePrey ratios of fresh meat, organs, and cartilage or bone, plus whole fish and cage-free eggs provide a natural source of virtually every nutrient your dog needs.\n\nIngredients:\nFresh chicken meat (13%), fresh turkey meat (7%), fresh cage-free eggs (7%), fresh chicken liver (6%), fresh whole herring (6%), fresh whole flounder (5%), fresh turkey liver (5%), fresh chicken necks (4%), fresh chicken heart (4%), fresh turkey heart (4%), chicken (dehydrated, 4%), turkey (dehydrated, 4%), whole mackerel (dehydrated, 4%), whole sardine (dehydrated, 4%), whole herring (dehydrated, 4%), whole red lentils, whole green lentils, whole green peas, lentil fibre, whole chickpeas, whole yellow peas, whole pinto beans, whole navy beans, herring oil (1%), chicken fat (1%), chicken cartilage (1%), chicken liver (freeze-dried), turkey liver (freeze-dried), fresh whole pumpkin, fresh whole butternut squash, fresh whole zucchini, fresh whole parsnips, fresh carrots, fresh whole Red Delicious apples, fresh whole Bartlett pears, fresh kale, fresh spinach, fresh beet greens, fresh turnip greens, brown kelp, whole cranberries, whole blueberries, whole Saskatoon berries, chicory root, turmeric root, milk thistle, burdock root, lavender, marshmallow root, rosehips.
+OUT_OF_STOCK
+dog2.jpg
+
+D0003
+VEGAN + GANODERMA CUISINE NEW 10kg
+BACK2NATURE
+268.70
+Features:\nBack2Nature Meat Free Ancient Vegan + Ganoderma Cuisine is 100% plant-based ingredients featuring Ganoderma, Ancient grains, Cranberry & Black sesame ensures your dogs get the best blend of a healthy nutritious diet. Plant-based diets are naturally anti-inflammatory, which helps dogs avoid health conditions like arthritis as they age.\n\nBACK2NATURE, Life In Motion Diet. Like their ancestors the wolves in the wild, dogs are made to be in motion- actively moving, propelling them forward. This optimum state of well-being is the premise of BACK2NATURE, Life In Motion Diet. We believe by living “A Life In Motion”- Dogs truly experience a healthier, well-rounded life; less prone to disease and illness.\n\nBACK2NATURE, Life In Motion Diet is void of common allergens (i.e. chicken and grains). Our ingredients are sourced regionally in Europe and produced in small batches in our world-class kitchen. Join us on our journey to healthier thriving lifestyle for our pets!\n\nIngredients:\nSoybean (Non-GMO), Corn (Non-GMO), Brown Rice, Wheat, Black Sesame, Vegetable Oil, Dry Vegetables, Brewer’s Dried Yeast, Essential Minerals (Dicalcium Phosphate, Calcium Lactate, Sodium Chloride, Potassium Chloride, Ferrous Sulfate, Zinc Oxide, Copper Sulfate Manganese Sulfate, Potassium Iodide, Selenium Yeast), Multiple Vitamins (Choline Chloride, Vitamin A, B1, B2, B3, B5, B6, B9, B12, D3, E, H), Cranberry, Nature Flavours, Enzyme, Yucca Extract, Bacillus Subtilis Natto, Lactobacillus, Ganoderma Powder
+IN_STOCK
+dog3.jpg
+
+D0004
+ESSENTIAL JUNIOR 1 12.5kg
+MERADOG
+273.00
+Features:\n\nMERA essential Junior 1 - Complete food for growing dogs of small and medium breeds and for the entire puppy breeding.\n\n-Supporting the immune system\n-Joint protection\n-For the entire breeding of puppies\n-Recipe without wheat\n-With MERA protection concepts\n-All-round care for puppies and young dogs\n-Tailored towards the individual needs of your dog\n\nThat is why our recipe deliberately avoids using:\nexotic meat sources, colourings, flavours and preservatives, genetically modified ingredients, sugar, soy, vitamin K3.\n\nIngredients:\nPoultry protein (35%, partially dried and hydrolysed), rice, maize, poultry fat, linseed, lignocellulose, beef pulp, egg powder, salmon oil (0.7%), brewer's yeast (dried), sunflower oil (0.5%), sodium chloride, chicory inulin (0.2%), yeast cell walls (=0.05% beta-glucans), potassium chloride, glucosamine from animal tissues (0.02%), chondroitin sulphate (0.01%).
+OUT_OF_STOCK
+dog4.jpg
+
+D0005
+HIGH MEAT LAMB & RICE 12kg
+PERO
+279.00
+Features:\n\nPero High Meat Lamb and Rice is a single source protein product, as well as a complete, super premium food for dogs. It packs a very generous 40% Lamb content, as well as being complete and hypo-allergenic dog food. Our recipe is free of any poultry, beef, soya or dairy ingredients, ensuring dogs that are sensitive to these ingredients always have a tasty and problem-free meal.\n\nGlucosamine and Chondroitin are added into the recipe to help maintain healthy joints, whilst Krill is added to provide a natural and pure source of Omega 3, which helps massively in maintaining a healthy coat and skin.\n\nThis super-premium dog food is nutritionally balanced and has all of the vital vitamins dogs need to live a happy and healthy life.\n\n-100% Delicious & complete - the best for your dog!\n-High-Meat Recipe\n-Made with over 40% Lamb\n-Hypo-Allergenic\n-Contains Premium Joint Supplement\n-Aids Sensitive Digestion\n-Made with All-Natural Ingredient\n\nIngredients:\nLamb (36% - Lamb Meal 27%, Fresh Lamb 9%), Whole Rice (35%), Beet Pulp, Lamb Fat (6.5%), Potato, Peas, Yeast Extract, Minerals, Malt Extract, Krill (3730mg/Kg), Glucosamine (150mg/kg),Chondroitin Sulphate (75mg/kg), Yucca Extract, Cranberry Extract.
+IN_STOCK
+dog5.jpg
+

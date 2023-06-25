@@ -1,0 +1,40 @@
+C0001
+TUNA WHOLE MEAT WITH SALMON IN JELLY 85g
+BURP
+4.10
+Features:\nTreat your feline friend to gourmet food with Burp!\nTuna Whole Meat with Salmon in Jelly is formulated according to the nutrient profiles stated by The Association of American Feed Control Officials to ensure that your cat gets a hearty and nutritious meal filled with vitamins and minerals. It contains taurine to support heart and eye health. You might even hear a burp of satisfaction!\n- Tuna whole meat with salmon in jelly recipe\n- Naturally rich in DHA\n- Enhanced with taurine for good heart and eye health.\n\nMade in Thailand\n\nIngredients:\nTuna Whole Meat, Salmon Meat, Polysaccharide Gum, Oligo Sugar, Vitamin E, Water.
+IN_STOCK
+cat1.jpg
+
+C0002
+ULTIMATE WHITEMEAT TUNA WITH FLAKED SALMON 85g
+SNAPPY TOM
+3.90
+Features:\n\nFinest quality ingredients\n- Made from real fish,taurine to assist with healthy eyesight\n- No artificial colours,preservatives or flavour\n- Complete and balanced nutrition\n- Cereal-free,no meat by-product.\n\nIngredients:\nTuna, Salmon, chicken mince, surimi, gelling agents, taurine
+IN_STOCK
+cat2.jpg
+
+C0003
+TUNA FILLETS WITH PINEAPPLE 75g
+SCHESIR
+7.00
+Features:\nTuna with pineapple. Complementary food for adult cats.\n\nIngredients:\nTuna 42%, pineapple 4%, rice 4%
+IN_STOCK
+cat3.jpg
+
+C0004
+(CAT) FREE RANGE CHICKEN (GRAIN FREE) 4kg
+CANAGAN
+239.00
+Features:\nEver wondered what the feline ancestors ate?\nYou might just find it in Canagan's range of grain-free cat food designed to closely mimic your cat's natural diet.\nCanagan Free Range Chicken is a special grain-free cat food with low carbohydrates and high protein content to provide a protein-rich diet your cat will thrive on.\nChicken is an excellent source of protein, vitamins, phosphorus and selenium which boosts the immune system.\nThis recipe is enhanced with vegetables and botanicals to improve your cat's immunity, including seaweed which contains iodine to support thyroid function and control metabolism.\n- Grain-free featuring free-range chicken\n- Contains sweet potato for slow-release energy, rich in antioxidants and a great source of soluble fiber\n- Enhanced with vegetables and botanicals to boost immunity and well-being\n- Includes cranberries to promote healthy urinary tract.\n\nIngredients:\nDried Chicken (35.5%), Freshly Prepared Deboned Free Range Chicken (25%), Sweet Potato, Potato, Chicken Fat (4.2%), Dried Egg (4%), Chicken Gravy (2.3%), Salmon Oil (1.2%), Minerals, Vitamins, Alfalfa, Cranberry, Mannanoligosaccharides, Fructooligosaccharides, Apple, Carrot, Spinach, Seaweed, Camomile, Peppermint, Marigold, Aniseed, Fenugreek.
+IN_STOCK
+cat4.jpg
+
+C0005
+FELINE CARE NUTRITION - HAIR & SKIN 33 4KG
+ROYAL CANIN
+155.75
+Features:\n\nROYAL CANIN® Hair & Skin Care is an exclusive complex of nutrients that help to support the skin's barrier role. It contains high quality proteins, including specific amino acids, to maintain healthy hair growth and skin renewal. ROYAL CANIN® Hair & Skin Care includes an essential combination of omega-3 and omega-6 fatty acids for beneficial effects on skin health and coat condition. The formula also contains soya and borage oil (rich in gamma linolenic acids) as well as fish oil to help your cat maintain a healthy, glossy coat.\n\nAdditionally, ROYAL CANIN® Hair & Skin Care has been designed with a number of other key nutrients, such as B-vitamins, amino acids, zinc and copper. Together, these nourish your cat's skin and fur by supporting the skin's barrier function and maintaining optimal skin beauty as well as hair strength and density. The exclusive use of ROYAL CANIN® Hair & Skin Care has been clinically proven to significantly increase coat shine after just 21 days of use.\n- Poor coat condition\n- Hair & skin care\n- Proven results / in 21 days / healthy shiny coat / visible effect / amino acids & vitamins / OMEGA 3 & 6\n- Urinary health\n\nIngredients:\nDehydrated poultry protein, animal fats, vegetable protein isolate*, rice, vegetable fibres, maize, hydrolysed animal proteins, wheat, yeasts and parts thereof, maize flour, maize gluten, beet pulp, soya oil, fish oil, minerals, borage oil, marigold extract (source of lutein).\nNutritional additives: Vitamin A: 26000 IU, Vitamin D3: 700 IU, E1 (Iron): 37 mg, E2 (Iodine): 3.7 mg, E4 (Copper): 11 mg, E5 (Manganese): 48 mg, E6 (Zinc): 102 mg, E8 (Selenium): 0.06 mg - Preservatives - Antioxidants
+IN_STOCK
+cat5.jpg
+
